@@ -1,7 +1,7 @@
 Laboratório prático de redes e segurança com foco em Fortigate e suas funcionalidades
 
 Objetivo:
-Máquina autenticada no dominio sendo reconhecida por login FSSO na integração do Active Directory com Fortigate
+Autenticação de máquina no domínio sendo reconhecida por login FSSO na integração do Fortigate com Active Directory 
 
 ## Ambiente ##
 
